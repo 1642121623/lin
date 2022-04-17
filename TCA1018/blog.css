@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+    background-color: pink;
+}
+main{
+    background-color: pink;
+
+
+float: right;
+    text-align: left;
+    font-size: large;
+    width: 30%;
+ 
+}
+h1{
+    text-align: center;
+    height: 6cm;
+    font-size: 3cm;
+}
+div{
+    width:20%
+
+}
+img{
+float: left;
+width: 800px;
+border-radius: 1cm;
+}
